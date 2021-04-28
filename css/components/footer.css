@@ -1,0 +1,13 @@
+.footer {
+	background-color: #F4CC59;
+	color: #483806;
+	padding: 30px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+.footer h2 {
+	font-size: 18px;
+	font-weight: 700;
+}
